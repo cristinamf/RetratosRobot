@@ -7,7 +7,7 @@ public class MAIN2 {
 		int ojos;
 		int orenar;
 		int boca;
-		String barbilla="   \"_______/";
+		String barbilla="   \\_______/";
 		
 		System.out.println("Pelo:           1. WWWWWWWWW 2. \\\\\\////// 3. |\"\"\"\"\"\"\"| 4. |||||||||");
 		System.out.println("Ojos:           1. |  O O  | 2. |-(· ·)-| 3. |-(o o)-| 4. |  \\\"/  |\"");
@@ -30,7 +30,7 @@ public class MAIN2 {
 			if (pelo==1)
 				System.out.println("1. WWWWWWWWW");
 			else if(pelo==2)
-				System.out.println("2. \\\\////");
+				System.out.println("2. \\\\\\//////");
 			else if(pelo==3)
 				System.out.println("3. |\"\"\"\"\"\"\"|");
 			else if(pelo==4)
@@ -56,7 +56,7 @@ public class MAIN2 {
 			if(orenar==1)
 				System.out.println("1. @   J   @");	
 			else if(orenar==2)
-				System.out.println("2. {  \"   }");
+				System.out.println("2. {   \"   }");
 			else if(orenar==3)
 				System.out.println("3. [   j   ]");
 			else if(orenar==4)

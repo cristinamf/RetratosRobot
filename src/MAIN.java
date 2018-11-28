@@ -8,11 +8,11 @@ public class MAIN {
 		int ojos;
 		int orenar;
 		int boca;
-		String barbilla="   \"_____/";
+		String barbilla="   \\______/";
 		
 		do {
 			System.out.println("1. WWWWWWWWW");
-			System.out.println("2. \\\\////");
+			System.out.println("2. \\\\\\//////");
 			System.out.println("3. |\"\"\"\"\"\"\"|");
 			System.out.println("4. |||||||||");
 			System.out.println("Elija pelo (numero entre 1 y 4):");
@@ -63,7 +63,7 @@ public class MAIN {
 				System.out.println("1. WWWWWWWWW");
 				break;
 			case 2:
-				System.out.println("2. \\\\/////");
+				System.out.println("2. \\\\\\//////");
 				break;
 			case 3:
 				System.out.println("3. |\"\"\"\"\"\"\"|");
